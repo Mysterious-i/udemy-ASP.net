@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E3D51FD-7497-46EB-8C49-054AC4E0EBE2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tighnavn\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\nzwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "NZWalksDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDBContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDBContext.cs",
+              "ToolTip": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDBContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:15:10.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Walk.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
@@ -58,25 +75,23 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T19:55:03.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T19:55:03.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
               "ToolTip": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T19:53:15.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T19:53:15.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
@@ -84,12 +99,11 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Difficulty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T19:51:45.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T19:51:45.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\StudentsController.cs",
@@ -97,12 +111,11 @@
               "RelativeToolTip": "NZWalks.API\\Controllers\\StudentsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:41:01.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T13:41:01.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
@@ -110,12 +123,11 @@
               "RelativeToolTip": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:35:31.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T13:35:31.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\appsettings.json",
               "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
@@ -123,12 +135,11 @@
               "RelativeToolTip": "NZWalks.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T00:39:45.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:39:45.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "NZWalks.API\\Properties\\launchSettings.json",
@@ -136,25 +147,23 @@
               "RelativeToolTip": "NZWalks.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAACQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T00:38:22.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:38:22.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NZWalks.API",
+              "DocumentIndex": 4,
+              "Title": "NZWalks.API.csproj",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
               "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.csproj",
               "ToolTip": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
               "RelativeToolTip": "NZWalks.API\\NZWalks.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T00:37:39.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:37:39.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TighnavN\\udemy\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
@@ -162,8 +171,7 @@
               "RelativeToolTip": "NZWalks.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T00:35:07.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T00:35:07.157Z"
             }
           ]
         }
